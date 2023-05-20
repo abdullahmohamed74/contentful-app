@@ -283,7 +283,7 @@ PROJECT CSS
 */
 
 body {
-  background: red;
+  background: var(--grey-200);
 }
 .hero {
   min-height: 40vh;
